@@ -1,0 +1,15 @@
+div {margin: 20px;
+padding: 15px;
+max-width: 300px;
+height: 300px;
+border: none; float: left}
+body {margin-left: 30px;
+margin-top: 60px;
+margin-right: 30px; background-image: url("http://www.pokemonxy.com/_ui/img/_en/downloads/Kalos-Region-Pokemon-X-and-Y_1024x768.jpg")}
+.Pikachu {background-color: #F7EA4E; height: 250px; width: 250px}
+.Charizard {background-color: orange; height: 250px; width: 250px}
+.Blastoise {background-color: blue; height: 250px; width: 250px}
+.Venusaur {background-color: green; height: 250px; width: 250px}
+.Haunter {background-color: purple; height: 250px; width: 250px}
+.Porygon {background-color: red; height: 250px; width: 250px}
+.Infernape {background-color: brown; height: 250px; width: 250px}
